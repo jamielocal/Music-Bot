@@ -1,4 +1,7 @@
-
+# CREDITS
+- Please Credit Me, and https://discord.gg/yxZNAtphnQ If you use this in a Public Bot / Library
+  ex. ```Music Function Coded By jamie.local / jqm1e.xyz```
+  Happy Listening!
 ![Music Bot](https://iili.io/dwqWHSS.png)
 
 # Discord Music Bot
