@@ -6,11 +6,11 @@
 
 # Discord Music Bot
 
-[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)](https://img.shields.io/github/v/release/jamielocal/Music-Bot?include_prereleases)
-[![GitHub last commit](https://img.shields.io/github/last-commit/navendu-pottekkat/awesome-readme)](https://img.shields.io/github/last-commit/jamielocal/Music-Bot)
-[![GitHub issues](https://img.shields.io/github/issues-raw/navendu-pottekkat/awesome-readme)](https://img.shields.io/github/issues-raw/jamielocal/Music-Bot)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/navendu-pottekkat/awesome-readme)](https://img.shields.io/github/issues-pr/jamielocal/Music-Bot)
-[![GitHub](https://img.shields.io/github/license/navendu-pottekkat/awesome-readme)](https://img.shields.io/github/license/jamielocal/Music-Bot)
+[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/jamielocal/Music-Bot?include_prereleases)](https://img.shields.io/github/v/release/jamielocal/Music-Bot?include_prereleases)
+[![GitHub last commit](https://img.shields.io/github/last-commit/jamielocal/Music-Bot)](https://img.shields.io/github/last-commit/jamielocal/Music-Bot)
+[![GitHub issues](https://img.shields.io/github/issues-raw/jamielocal/Music-Bot)](https://img.shields.io/github/issues-raw/jamielocal/Music-Bot)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/jamielocal/Music-Bot)](https://img.shields.io/github/issues-pr/jamielocal/Music-Bot)
+[![GitHub](https://img.shields.io/github/license/jamielocal/Music-Bot)](https://img.shields.io/github/license/jamielocal/Music-Bot)
 
 
 # Table of Contents
