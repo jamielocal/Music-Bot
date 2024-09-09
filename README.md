@@ -40,7 +40,7 @@ cd Music-bot
 
 How to Use after Install, Install the Libraries with ```pip install -r requirements.txt```
 And Install the yt-dlp Library With ```pip install -U git+https://github.com/yt-dlp/yt-dlp.git```
-and then install (ffmpeg)[https://www.hostinger.com/tutorials/how-to-install-ffmpeg], and Finally run ```python3 main.py```
+and then install [ffmpeg](https://www.hostinger.com/tutorials/how-to-install-ffmpeg), and Finally run ```python3 main.py```
 
 
 # Contribute
